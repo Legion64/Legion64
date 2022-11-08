@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Melih Budak, a Jr. full-stack freelance developer 👨‍💻</div>  
+### <div align="center">I'm Melih, a Jr. full-stack freelance developer 👨‍💻</div>  
   
 
 - 🌱 I’m currently learning GraphQL and Real-Time Web Applications  
